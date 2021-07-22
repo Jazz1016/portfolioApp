@@ -25,9 +25,9 @@ export default function Works() {
     {
       id: "3",
       icon: "./assets/writing.png",
-      title: "Branding",
+      title: "CryptoCurrency",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "A Leading expert on cryptocurrency asset security",
       img:
         "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
     },
@@ -55,7 +55,7 @@ export default function Works() {
                   </div>
                   <h2>{d.title}</h2>
                   <p>{d.desc}</p>
-                  <span>Projects</span>
+                  {/* <span>Projects</span> */}
                 </div>
               </div>
               <div className="right">

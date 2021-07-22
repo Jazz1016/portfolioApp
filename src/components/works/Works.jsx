@@ -6,19 +6,19 @@ export default function Works() {
   const data = [
     {
       id: "1",
-      icon: "./assets/mobile.png",
-      title: "Web Design",
+      icon: "./assets/globe.png",
+      title: "Web Development",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+        "Web Development skills to bring your site into the twenty second century",
       img:
         "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
     },
     {
       id: "2",
-      icon: "./assets/globe.png",
-      title: "Mobile Application",
+      icon: "./assets/mobile.png",
+      title: "Mobile Development",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Mobile application development for complex and cross platform applications",
       img:
         "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
     },
